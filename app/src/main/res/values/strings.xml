@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string-array name="makanan">
+        <item>Iphone 13 Pro Max</item>
+        <item>Samsung S ultra</item>
+        <item>Samsung Z Flip</item>
+        <item>Xiaomi 12</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 5000</item>
+        <item>Rp. 7000</item>
+        <item>Rp. 10.000</item>
+        <item>Rp. 15.000</item>
+    </string-array>
+</resources>
